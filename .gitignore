@@ -4,6 +4,7 @@
 *.key
 credentials.json
 rclone.conf
+TOOLS.md
 
 # Dependencies
 node_modules/
