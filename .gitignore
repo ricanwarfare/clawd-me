@@ -1,0 +1,19 @@
+# Secrets
+*.env
+*.pem
+*.key
+credentials.json
+rclone.conf
+
+# Dependencies
+node_modules/
+
+# Build
+public/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
